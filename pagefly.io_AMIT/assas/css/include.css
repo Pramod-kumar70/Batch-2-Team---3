@@ -1,0 +1,154 @@
+body {
+    margin: 0px;
+    padding: 0px;
+}
+
+.am1 {
+
+    margin-top: 250px;
+    font-size: 17px;
+}
+
+.am2 {
+    font-size: 40px;
+    font-weight: bold;
+}
+
+.am3 {
+    background-color: #E56639;
+    color: white;
+    border-style: none;
+    padding: 15px;
+    border-radius: 20px;
+    font-size: 15px;
+    font-weight: bolder;
+}
+
+.am4 {
+    background-color: #89837D;
+    font-size: 29px;
+    font-weight: 400;
+    color: white;
+    padding: 10px;
+    margin-bottom: -10px;
+}
+
+.am5 {
+    background-color: #F9EFE5;
+    color: black;
+    font-size: 20px;
+    font-weight: 700;
+}
+
+.am6 {
+    border-radius: 50%;
+    padding: 17px;
+    margin: 2px;
+    border: none;
+}
+
+.am7 {
+    border-radius: 10px;
+    border-color: #E56639;
+    border: 2px solid;
+    margin: 3px;
+    width: 45px;
+    height: 39px;
+    background-color: white;
+    color: #E56639;
+}
+
+.am8 {
+    border-radius: 10px;
+    border: 2px solid;
+    margin: 3px;
+    width: 45px;
+    height: 39px;
+    margin: 3px;
+    background-color: white;
+
+}
+
+.am9 {
+    font-weight: 700;
+    font-size: 18px;
+
+}
+
+.am10 {
+    text-align: center;
+    font-size: 39px;
+    font-weight: 600;
+    margin-bottom: 20px;
+}
+.img{
+    width: 540px;
+
+}
+.ROW_3rd{
+    background-color: #666666;
+    color: white;
+    text-align: center;
+}
+.am11{
+    font-weight: 500;
+    font-size: 40px;
+}
+.am12{
+    text-align: center;
+    font-size: 19px;
+    font-weight: 400;
+   
+}
+.HoverForImg img:hover{
+    transform: scale(1.05);
+}
+.am13{
+    margin-top: 12%;
+    text-align: center;
+    font-size: 45px;
+    font-weight: 600;
+    margin-bottom: 12%;
+
+}
+.am14{
+    margin: 20px;
+    align-items: center;
+    text-align: center;
+}
+.am15{
+    font-size: 28px;
+    font-weight: 600;
+}
+.am16{
+    font-size: 15px;
+    font-weight: 400;
+}
+
+
+/* ***********************************  row 6 ********************** */
+
+.rowsix{
+    background-color:#F9EFE5 ;
+}
+.checked{
+    color: yellow;
+}
+.roweight{
+    background-color: #666666;
+    
+    padding-top: 10%;
+    padding-bottom: 10%;
+}
+
+/* ******************  media cori..**************************** */
+@media(min-width: 300px) and (max-width :767px) {
+    .am1 {
+        text-align: center;
+    }
+}
+@media(min-width: 412px) and (max-width :915px) {
+.img{
+    width: 350px;
+}
+}
